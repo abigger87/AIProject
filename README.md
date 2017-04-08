@@ -1,6 +1,7 @@
-# GlobalAI
-Global AI Hackathon Project<br />
+# AIProject
+AI Hackathon Project<br />
 
+Global AI Project<br />
 Challenges are announced at kick-off <br />
 Two webinars are hosted to cover basic AI knowledge and tools<br />
 Participants choose one challenge to work on<br />
