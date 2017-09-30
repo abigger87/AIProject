@@ -1,0 +1,18 @@
+neural network
+
+Data classification
+- connections classified by strength.
+- open time thread of general data input
+  - open sublevels
+  - data should be linked to information by topic, time input and other events in that time thread
+
+
+Data Retrieval
+-When any piece of data interpreted locate data that falls in general topic and recall information
+-should also take into account time
+  - open thread when data classification should be checked if open, and its data should also be recalled, earlier the stronger
+
+
+*****for neural net to learn its own network, must run through tests where data input given and the specific information recalled is tested with algorithms
+  ******* if the connections dont find the data, neural should loom at similarities and strengthen the emphasis on those types of similarities
+  neural network should find its own way to emphasize data connections
